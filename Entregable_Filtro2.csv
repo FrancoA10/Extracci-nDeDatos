@@ -1,0 +1,21 @@
+,code,name,continent,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+55,CZE,Czech Republic,Europe,Eastern Europe,78866.0,1993.0,10278100,74.5,55017.0,52037.0,esko,Republic,Vaclav Havel,3339.0,CZ
+56,DEu,Germany,Europe,Western Europe,357022.0,1955.0,82164700,77.4,2133367.0,2102826.0,Deutschland,Federal Republic,Johannes Rau,3068.0,DE
+57,DJI,Djibouti,Africa,Eastern Africa,23200.0,1977.0,638000,50.8,382.0,373.0,Djibouti/Jibuti,Republic,Ismail Omar Guelleh,585.0,DJ
+58,DMA,Dominica,North America,Caribbean,751.0,1978.0,71000,73.4,256.0,243.0,Dominica,Republic,Vernon Shaw,586.0,DM
+59,DNK,Denmark,Europe,Nordic Countries,43094.0,800.0,5330000,76.5,174099.0,169264.0,Danmark,Constitutional Monarchy,Margrethe II,3315.0,DK
+60,DOM,Dominican Republic,North America,Caribbean,48511.0,1844.0,8495000,73.2,15846.0,15076.0,Republica Dominicana,Republic,Hipolito MejIa DomInguez,587.0,DO
+61,DZA,Algeria,Africa,Northern Africa,2381741.0,1962.0,31471000,69.7,49982.0,46966.0,Al-Jazair/Algerie,Republic,Abdelaziz Bouteflika,35.0,DZ
+62,ECu,Ecuador,South America,South America,283561.0,1822.0,12646000,71.1,19770.0,19769.0,Ecuador,Republic,Gustavo Noboa Bejarano,594.0,EC
+63,EGY,Egypt,Africa,Northern Africa,1001449.0,1922.0,68470000,63.3,82710.0,75617.0,Misr,Republic,Hosni Mubarak,608.0,EG
+64,ERI,Eritrea,Africa,Eastern Africa,117600.0,1993.0,3850000,55.8,650.0,755.0,Ertra,Republic,Isayas Afewerki [Isaias Afwerki],652.0,ER
+65,ESH,Western Sahara,Africa,Northern Africa,266000.0,,293000,49.8,60.0,,As-Sahrawiya,Occupied by Marocco,Mohammed Abdel Aziz,2453.0,EH
+66,ESP,Spain,Europe,Southern Europe,505992.0,1492.0,39441700,78.8,553233.0,532031.0,Espana,Constitutional Monarchy,Juan Carlos I,653.0,ES
+67,EST,Estonia,Europe,Baltic Countries,45227.0,1991.0,1439200,69.5,5328.0,3371.0,Eesti,Republic,Lennart Meri,3791.0,EE
+68,ETH,Ethiopia,Africa,Eastern Africa,1104300.0,-1000.0,62565000,45.2,6353.0,6180.0,YeItyop iya,Republic,Negasso Gidada,756.0,ET
+69,FIN,Finland,Europe,Nordic Countries,338145.0,1917.0,5171300,77.4,121914.0,119833.0,Suomi,Republic,Tarja Halonen,3236.0,FI
+70,FJI,Fiji Islands,Oceania,Melanesia,18274.0,1970.0,817000,67.9,1536.0,2149.0,Fiji Islands,Republic,Josefa Iloilo,764.0,FJ
+71,FLK,Falkland Islands,South America,South America,12173.0,,2000,,0.0,,Falkland Islands,Dependent Territory of the uK,Elisabeth II,763.0,FK
+72,FRA,France,Europe,Western Europe,551500.0,843.0,59225700,78.8,1424285.0,1392448.0,France,Republic,Jacques Chirac,2974.0,FR
+73,FRO,Faroe Islands,Europe,Nordic Countries,1399.0,,43000,78.4,0.0,,Foroyar,Part of Denmark,Margrethe II,901.0,FO
+74,FSM,"Micronesia, Federated States of",Oceania,Micronesia,702.0,1990.0,119000,68.6,212.0,,Micronesia,Federal Republic,Leo A. Falcam,2689.0,FM
